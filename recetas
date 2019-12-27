@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <h1>Recipe Log</h1>
+  
+  <h2>Prosciutto wrapped Chicken</h2>
+  <img src="C:\Users\Mike\Documents\recipe log IMG-1642/html.jpeg" alt="chicken served with quinoa" width:"360" height:"500"/>
+  <br>
+  <div id="ingredients">  
+    <h3>Ingredients</h3>
+      <ul>
+        <li>4(6-8oz) boneless, skinless chicken breasts</li>
+        <li>8 thin slices(4oz) prosciutto</li>
+        <li>1tbsp extra-virgin olive oil</li>
+        <li>Fresh sage</li>
+        <li>1 lemon</li>
+        <li>4tbsp unsalted butter</li>
+      </ul>
+  </div>
+  <div id="directions">
+    <h3>Directions</h3>
+      <ol>
+	<li>Adjust oven rack to upper middle level and heat to 400 degrees. Trim chicken, pat dry with paper towels, and season with salt and pepper.
+	    Slightly overlap two slices of prosciutto on cutting board and lay 1 chiken breast in center, fold prosciutto over chicken. Repeat with
+            remaining prosciutto and chicken.</li>
+	<li>Heat oil in 12-inch nonstick skillet over medium-high heat until just smoking. PLace chicken in skillet and cook intil lightly browned on both sides, 6-8minutes. Transfer chicken to rimmed baking sheet and bake until it reaches 160 degrees, 10-12minutes. Transfer chicken to platter and cover to keep warm.</li>
+	<li>Mince 2tsp sage and squeeze juice from lemon into small bowl. Melt butter in now-empty skillet over medium-high heat, swirling occasioanlly until butter is browned and has nutty aroma, about 1.5 minutes. Off heat, stir in sage and let sit until fragrant, about 1 minute. Stir in 1 tsp lemon juice, pinch of salt, and 1/8 tsp pepper. Drizzle sauce over chicken and serve.</li>
+      </ol>
+  </div>
+  <footer>Suggested:complete the meal by serving it with sides of quinoa and asparagus or other preferred vegetable.</footer>	
+<img src=""/>
+  </body>
+</html>
